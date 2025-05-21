@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React 1.0 ADD PAGE and BUTTON</h1>
+      <h1>Vite + React 1.0 ADD PAGE and BUTTON TASK-1 buid grid UI</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
